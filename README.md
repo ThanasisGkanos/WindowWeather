@@ -1,2 +1,2 @@
 # WindowWeather
-Contact Astec for [Electron app development services](https://astec.net/services/electron/).
+I know work at Astec, a company that provides [Electron app development services](https://astec.net/services/electron/).
